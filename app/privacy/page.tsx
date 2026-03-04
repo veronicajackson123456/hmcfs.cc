@@ -141,11 +141,11 @@ export default function Privacy() {
                   </li>
                   <li className="flex items-center gap-2">
                     <span className="text-lg">📱</span>
-                    <span><span className="font-semibold">Phone:</span> +1 (845) 904-7626</span>
+                    <span><span className="font-semibold">Mob:</span> +44(0)7424488818</span>
                   </li>
-                  <li className="flex items-center gap-2">
-                    <span className="text-lg">📍</span>
-                    <span><span className="font-semibold">Address:</span> 102 GOLD AVE SW, ALBUQUERQUE, NM 87102</span>
+                  <li className="flex items-start gap-2">
+                    <span className="text-lg mt-0.5">📍</span>
+                    <span><span className="font-semibold">Registered Address:</span> 72 High Street, Easterton, Devizes, Wiltshire, SN10 4PG</span>
                   </li>
                 </ul>
               </div>
