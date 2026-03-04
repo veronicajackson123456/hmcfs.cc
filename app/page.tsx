@@ -225,7 +225,7 @@ export default function Home() {
             </div>
             <div className="text-center space-y-2 text-blue-100">
               <p className="text-lg">📞 +1 (845) 904-7626</p>
-              <p className="text-lg">📧 info@nccpllc.cc</p>
+              <p className="text-lg">info@mcol.online</p>
             </div>
           </div>
         </section>

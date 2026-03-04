@@ -137,7 +137,7 @@ export default function Privacy() {
                 <ul className="list-none pl-6 space-y-3">
                   <li className="flex items-center gap-2">
                     <span className="text-lg">✉️</span>
-                    <span><span className="font-semibold">Email:</span> info@nccpllc.cc</span>
+                    <span><span className="font-semibold">Email:</span> info@mcol.online</span>
                   </li>
                   <li className="flex items-center gap-2">
                     <span className="text-lg">📱</span>

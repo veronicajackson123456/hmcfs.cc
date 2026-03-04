@@ -65,9 +65,9 @@ export default function Contact() {
     },
     {
       title: 'Email',
-      content: 'info@nccpllc.cc',
+      content: 'info@mcol.online',
       icon: Mail,
-      link: 'mailto:info@nccpllc.cc',
+      link: 'mailto:info@mcol.online',
     },
     {
       title: 'Office',
