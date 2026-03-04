@@ -159,9 +159,27 @@ export default function Home() {
             <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4 text-center">
               Our Core Services
             </h2>
-            <p className="text-lg text-gray-600 text-center mb-12 max-w-3xl mx-auto">
+            <p className="text-lg text-gray-600 text-center mb-10 max-w-3xl mx-auto">
               A glimpse into how we can support your business.
             </p>
+            <div className="relative rounded-2xl overflow-hidden shadow-md mb-12 h-64 md:h-80">
+              <Image
+                src="/services-team.jpg"
+                alt="MCOL LTD team working with clients"
+                fill
+                className="object-cover"
+              />
+              <div className="absolute inset-0 bg-gradient-to-r from-blue-900/60 to-transparent flex items-center px-10">
+                <div>
+                  <p className="text-white text-2xl md:text-3xl font-bold max-w-sm leading-snug">
+                    Trusted by businesses across every sector
+                  </p>
+                  <p className="text-blue-100 mt-2 text-base max-w-xs">
+                    Reliable. Flexible. Results-driven.
+                  </p>
+                </div>
+              </div>
+            </div>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mb-12">
               {services.map((service, idx) => (
                 <div key={idx} className="bg-white p-8 rounded-lg shadow-sm border border-gray-200 hover:shadow-md hover:border-blue-200 transition-all">
