@@ -31,7 +31,7 @@ export default function Privacy() {
                 <p className="text-lg leading-relaxed flex items-start gap-3">
                   <span className="text-2xl mt-1">👋</span>
                   <span>
-                    Welcome to NCCP LLC's Privacy Policy. This policy describes how we collect, use, and protect your personal information when you visit our website or use our services.
+                    Welcome to MCOL LTD's Privacy Policy. This policy describes how we collect, use, and protect your personal information when you visit our website or use our services.
                   </span>
                 </p>
               </div>

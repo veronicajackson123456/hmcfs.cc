@@ -31,7 +31,7 @@ export default function Terms() {
                 <p className="text-lg leading-relaxed flex items-start gap-3">
                   <span className="text-2xl mt-1">👋</span>
                   <span>
-                    Welcome to <span className="font-bold">NCCP LLC</span>. These Terms and Conditions outline the rules and regulations for the use of our website and services. By accessing or using our website, you agree to comply with these terms. If you disagree with any part of the terms, please do not use our website or services.
+                    Welcome to <span className="font-bold">MCOL LTD</span>. These Terms and Conditions outline the rules and regulations for the use of our website and services. By accessing or using our website, you agree to comply with these terms. If you disagree with any part of the terms, please do not use our website or services.
                   </span>
                 </p>
               </div>
@@ -41,7 +41,7 @@ export default function Terms() {
                   <span>1️⃣</span> Interpretation and Definitions
                 </h2>
                 <p className="leading-relaxed">
-                  In these Terms, "Company", "We", "Our", or "Us" refers to <span className="font-bold">NCCP LLC</span>. "Client", "You", or "Your" refers to the individual or business using our website or services.
+                  In these Terms, "Company", "We", "Our", or "Us" refers to <span className="font-bold">MCOL LTD</span>. "Client", "You", or "Your" refers to the individual or business using our website or services.
                 </p>
               </div>
 
@@ -59,7 +59,7 @@ export default function Terms() {
                   <span>🛠️</span> 3. Services
                 </h2>
                 <p className="leading-relaxed">
-                  NCCP LLC provides business support, IT, and digital services. All services are subject to individual agreements and may require written confirmation or payment prior to commencement.
+                  MCOL LTD provides business support, IT, and digital services. All services are subject to individual agreements and may require written confirmation or payment prior to commencement.
                 </p>
               </div>
 
@@ -68,7 +68,7 @@ export default function Terms() {
                   <span>📝</span> 4. Intellectual Property
                 </h2>
                 <p className="leading-relaxed">
-                  All content, including text, images, graphics, and code on this website, is the property of NCCP LLC or its licensors. You may not reproduce, distribute, or exploit any materials without prior written consent.
+                  All content, including text, images, graphics, and code on this website, is the property of MCOL LTD or its licensors. You may not reproduce, distribute, or exploit any materials without prior written consent.
                 </p>
               </div>
 
@@ -77,7 +77,7 @@ export default function Terms() {
                   <span>⚖️</span> 5. Limitation of Liability
                 </h2>
                 <p className="leading-relaxed">
-                  NCCP LLC shall not be held liable for any indirect, incidental, or consequential damages arising from the use or inability to use our services. Our total liability, in any case, will not exceed the total fees paid by the client for the specific project.
+                  MCOL LTD shall not be held liable for any indirect, incidental, or consequential damages arising from the use or inability to use our services. Our total liability, in any case, will not exceed the total fees paid by the client for the specific project.
                 </p>
               </div>
 
@@ -95,7 +95,7 @@ export default function Terms() {
                   <span>🔒</span> 7. Confidentiality
                 </h2>
                 <p className="leading-relaxed">
-                  We value your trust. Any business, technical, or personal information shared with NCCP LLC will remain confidential and will not be disclosed to third parties without your consent, unless required by law.
+                  We value your trust. Any business, technical, or personal information shared with MCOL LTD will remain confidential and will not be disclosed to third parties without your consent, unless required by law.
                 </p>
               </div>
 
@@ -122,7 +122,7 @@ export default function Terms() {
                   <span>🔄</span> 10. Changes to Terms
                 </h2>
                 <p className="leading-relaxed">
-                  NCCP LLC reserves the right to modify or replace these Terms at any time. Updates will be posted on this page, and your continued use of the site constitutes acceptance of the new Terms.
+                  MCOL LTD reserves the right to modify or replace these Terms at any time. Updates will be posted on this page, and your continued use of the site constitutes acceptance of the new Terms.
                 </p>
               </div>
 

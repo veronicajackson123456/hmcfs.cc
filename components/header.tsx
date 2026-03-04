@@ -27,14 +27,14 @@ export default function Header() {
           {/* Logo & Company Info */}
           <Link href="/" className="flex items-center gap-3 flex-shrink-0">
             <Image 
-              src="/nccp-logo.jpg" 
-              alt="NCCP LLC Logo" 
+              src="/mcol-logo.jpg" 
+              alt="MCOL LTD Logo" 
               width={48} 
               height={48}
               className="rounded w-12 h-12 object-cover"
             />
             <div className="flex flex-col">
-              <div className="text-lg font-bold text-gray-900">NCCP LLC</div>
+              <div className="text-lg font-bold text-gray-900">MCOL LTD</div>
               <div className="text-xs text-gray-600">Business Solutions</div>
               <div className="text-xs text-gray-500"> Company No #394282215</div>
             </div>

@@ -12,13 +12,13 @@ export default function Footer() {
           <div>
             <div className="flex items-center gap-3 mb-4">
               <Image 
-                src="/nccp-logo.jpg" 
-                alt="NCCP LLC Logo" 
+                src="/mcol-logo.jpg" 
+                alt="MCOL LTD Logo" 
                 width={40} 
                 height={40}
                 className="rounded"
               />
-              <h3 className="text-xl font-bold">NCCP LLC</h3>
+              <h3 className="text-xl font-bold">MCOL LTD</h3>
             </div>
             <p className="text-gray-400 text-sm leading-relaxed">
               Your trusted partner in growth, efficiency, and success. Delivering comprehensive business support services worldwide.
@@ -113,7 +113,7 @@ export default function Footer() {
               </p>
             </div>
             <div className="md:text-right">
-              <p>&copy; 2025 NCCP LLC. All rights reserved.</p>
+              <p>&copy; 2025 MCOL LTD. All rights reserved.</p>
               <p className="mt-2 text-xs">✨ Comprehensive Business Support Services</p>
             </div>
           </div>

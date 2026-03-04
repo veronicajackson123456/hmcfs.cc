@@ -79,7 +79,7 @@ export default function Home() {
                   Your trusted partner in growth, efficiency, and success.
                 </p>
                 <p className="text-base text-gray-600 mb-8 leading-relaxed">
-                  At NCCP LLC, we help businesses of all sizes operate smarter, grow faster, and achieve long-term success. Whether you need administrative support, financial management, strategic consultancy, or staffing solutions, our expert team delivers reliable, flexible, and cost-effective services tailored to your goals.
+                  At MCOL LTD, we help businesses of all sizes operate smarter, grow faster, and achieve long-term success. Whether you need administrative support, financial management, strategic consultancy, or staffing solutions, our expert team delivers reliable, flexible, and cost-effective services tailored to your goals.
                 </p>
                 <p className="text-base text-gray-600 mb-8 leading-relaxed">
                   From startups to established enterprises, we provide the operational foundation you need to focus on what truly matters — running and expanding your business.
@@ -131,7 +131,7 @@ export default function Home() {
         <section className="py-16 md:py-20 bg-white">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4 text-center">
-              Why Businesses Choose <span className="text-blue-600">NCCP LLC</span>
+              Why Businesses Choose <span className="text-blue-600">MCOL LTD</span>
             </h2>
             <p className="text-lg text-gray-600 text-center mb-12 max-w-3xl mx-auto">
               We combine expertise, innovation, and dedication to deliver exceptional results for your business

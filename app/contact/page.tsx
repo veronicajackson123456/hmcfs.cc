@@ -122,7 +122,7 @@ export default function Contact() {
               We're Here to Help
             </p>
             <p className="text-lg text-gray-700 leading-relaxed max-w-3xl">
-              Have a question or ready to transform your business? Get in touch with our team and discover how NCCP LLC can help you succeed.
+              Have a question or ready to transform your business? Get in touch with our team and discover how MCOL LTD can help you succeed.
             </p>
           </div>
         </section>
