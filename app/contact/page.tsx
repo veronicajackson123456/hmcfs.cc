@@ -59,9 +59,9 @@ export default function Contact() {
   const contactInfo = [
     {
       title: 'Phone',
-      content: '+1 (845) 904-7626',
+      content: '+44(0)7424488818',
       icon: Phone,
-      link: 'tel:+18459047626',
+      link: 'tel:+447424488818',
     },
     {
       title: 'Email',
@@ -71,7 +71,7 @@ export default function Contact() {
     },
     {
       title: 'Office',
-      content: '102 GOLD AVE SW, ALBUQUERQUE, NM 87102',
+      content: '72 High Street\nEasterton\nDevizes\nWiltshire\nSN10 4PG',
       icon: MapPin,
     },
     {

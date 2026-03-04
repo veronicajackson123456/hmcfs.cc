@@ -65,8 +65,8 @@ export default function Footer() {
                 <span>
                   <span className="font-semibold text-white">Phone:</span>
                   <br />
-                  <a href="tel:+18459047626" className="hover:text-white transition-colors">
-                    +1 (845) 904-7626
+                  <a href="tel:+447424488818" className="hover:text-white transition-colors">
+                    +44(0)7424488818
                   </a>
                 </span>
               </p>
@@ -105,11 +105,12 @@ export default function Footer() {
         <div className="border-t border-gray-800 pt-8">
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4 text-sm text-gray-400">
             <div>
-              <p className="flex items-center gap-2">
-                <span className="text-lg">📍</span> 102 GOLD AVE SW, ALBUQUERQUE, NM 87102
+              <p className="flex items-start gap-2">
+                <span className="text-lg mt-0.5">📍</span>
+                <span>72 High Street, Easterton, Devizes, Wiltshire, SN10 4PG</span>
               </p>
               <p className="mt-2 flex items-center gap-2">
-                <span className="text-lg">🏷️</span> Company Number: 394282215
+                <span className="text-lg">🏷️</span> Company No. 17069019
               </p>
             </div>
             <div className="md:text-right">

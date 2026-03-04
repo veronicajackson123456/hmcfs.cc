@@ -36,7 +36,7 @@ export default function Header() {
             <div className="flex flex-col">
               <div className="text-lg font-bold text-gray-900">MCOL LTD</div>
               <div className="text-xs text-gray-600">Business Solutions</div>
-              <div className="text-xs text-gray-500"> Company No #394282215</div>
+              <div className="text-xs text-gray-500">Company No. 17069019</div>
             </div>
           </Link>
 

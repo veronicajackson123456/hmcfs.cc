@@ -113,7 +113,7 @@ export default function Terms() {
                   <span>⚡</span> 9. Governing Law
                 </h2>
                 <p className="leading-relaxed">
-                  These Terms shall be governed and construed in accordance with the laws of the United States and the State of Delaware, without regard to its conflict of law provisions.
+                  These Terms shall be governed and construed in accordance with the laws of England and Wales. Any disputes arising under these Terms shall be subject to the exclusive jurisdiction of the courts of England and Wales.
                 </p>
               </div>
 
@@ -140,15 +140,15 @@ export default function Terms() {
                   </li>
                   <li className="flex items-center gap-2">
                     <span className="text-lg">📱</span>
-                    <span><span className="font-semibold">Phone:</span> +1 (845) 904-7626</span>
+                    <span><span className="font-semibold">Mob:</span> +44(0)7424488818</span>
                   </li>
-                  <li className="flex items-center gap-2">
-                    <span className="text-lg">📍</span>
-                    <span><span className="font-semibold">Address:</span> 102 GOLD AVE SW, ALBUQUERQUE, NM 87102</span>
+                  <li className="flex items-start gap-2">
+                    <span className="text-lg mt-0.5">📍</span>
+                    <span><span className="font-semibold">Registered Address:</span> 72 High Street, Easterton, Devizes, Wiltshire, SN10 4PG</span>
                   </li>
                   <li className="flex items-center gap-2">
                     <span className="text-lg">🏷️</span>
-                    <span><span className="font-semibold">Company Number:</span> 394282215</span>
+                    <span><span className="font-semibold">Company No.:</span> 17069019</span>
                   </li>
                 </ul>
               </div>
