@@ -85,17 +85,37 @@ export default function Footer() {
 
           {/* Legal Links */}
           <div>
-            <h4 className="font-bold mb-4 flex items-center gap-2">
-              <span>⚖️</span> Legal
-            </h4>
+            <h4 className="font-bold mb-4">Legal</h4>
             <ul className="space-y-2 text-sm">
               <li>
-                <Link href="/terms" className="text-gray-400 hover:text-white transition-colors flex items-center gap-2">
-                  <span>📋</span> Terms & Conditions
+                <Link href="/legal" className="text-gray-400 hover:text-white transition-colors">
+                  Legal Hub
                 </Link>
               </li>
               <li>
-                
+                <Link href="/terms" className="text-gray-400 hover:text-white transition-colors">
+                  Terms &amp; Conditions
+                </Link>
+              </li>
+              <li>
+                <Link href="/privacy" className="text-gray-400 hover:text-white transition-colors">
+                  Privacy Policy
+                </Link>
+              </li>
+              <li>
+                <Link href="/cookies" className="text-gray-400 hover:text-white transition-colors">
+                  Cookie Policy
+                </Link>
+              </li>
+              <li>
+                <Link href="/acceptable-use" className="text-gray-400 hover:text-white transition-colors">
+                  Acceptable Use Policy
+                </Link>
+              </li>
+              <li>
+                <Link href="/disclaimer" className="text-gray-400 hover:text-white transition-colors">
+                  Disclaimer
+                </Link>
               </li>
             </ul>
           </div>

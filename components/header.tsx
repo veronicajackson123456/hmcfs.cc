@@ -17,7 +17,7 @@ export default function Header() {
     { label: 'Services', href: '/services' },
     { label: 'About', href: '/about' },
     { label: 'Contact', href: '/contact' },
-    { label: 'Terms and Conditions', href: '/terms' },
+    { label: 'Legal', href: '/legal' },
   ]
 
   return (
