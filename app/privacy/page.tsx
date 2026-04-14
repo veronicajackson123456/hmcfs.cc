@@ -2,8 +2,8 @@ import type { Metadata } from 'next'
 import LegalLayout from '@/components/legal-layout'
 
 export const metadata: Metadata = {
-  title: 'Privacy Policy | MCOL LTD',
-  description: 'Learn how MCOL LTD collects, uses, and protects your personal information.',
+  title: 'Privacy Policy | HMCFS LTD',
+  description: 'Learn how HMCFS LTD collects, uses, and protects your personal information.',
 }
 
 export default function PrivacyPage() {
@@ -11,7 +11,7 @@ export default function PrivacyPage() {
     <LegalLayout
       title="Privacy Policy"
       lastUpdated="4 November 2025"
-      description="At MCOL LTD, we are committed to protecting your personal information and your right to privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website or use our services. Please read this policy carefully. If you disagree with its terms, please discontinue use of our site."
+      description="At HMCFS LTD, we are committed to protecting your personal information and your right to privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website or use our services. Please read this policy carefully. If you disagree with its terms, please discontinue use of our site."
       sections={[
         {
           title: 'Information We Collect',
@@ -82,7 +82,7 @@ export default function PrivacyPage() {
                 <li><strong className="text-foreground">Service Providers:</strong> Trusted third-party companies who assist us in operating our business, subject to confidentiality agreements</li>
                 <li><strong className="text-foreground">Legal Requirements:</strong> When required by law, regulation, or legal process</li>
                 <li><strong className="text-foreground">Business Transfers:</strong> In connection with a merger, acquisition, or sale of assets, where personal data may be transferred</li>
-                <li><strong className="text-foreground">Protection of Rights:</strong> When necessary to protect the rights, property, or safety of MCOL LTD, our clients, or others</li>
+                <li><strong className="text-foreground">Protection of Rights:</strong> When necessary to protect the rights, property, or safety of HMCFS LTD, our clients, or others</li>
               </ul>
             </>
           ),
@@ -131,7 +131,7 @@ export default function PrivacyPage() {
                 <li><strong className="text-foreground">Rights related to automated decision-making:</strong> Not to be subject to decisions made solely by automated processing</li>
               </ul>
               <p className="mt-3">
-                To exercise any of these rights, please contact us at <a href="mailto:info@mcol.online" className="text-primary hover:underline">info@mcol.online</a>. You also have the right to lodge a complaint with the Information Commissioner&apos;s Office (ICO) at <a href="https://ico.org.uk" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline">ico.org.uk</a>.
+                To exercise any of these rights, please contact us at <a href="mailto:info@hmcfs.cc" className="text-primary hover:underline">info@hmcfs.cc</a>. You also have the right to lodge a complaint with the Information Commissioner&apos;s Office (ICO) at <a href="https://ico.org.uk" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline">ico.org.uk</a>.
               </p>
             </>
           ),

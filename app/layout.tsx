@@ -7,11 +7,11 @@ const geist = Geist({ subsets: ["latin"], variable: "--font-sans" });
 const geistMono = Geist_Mono({ subsets: ["latin"], variable: "--font-mono" });
 
 export const metadata: Metadata = {
-  title: 'MCOL LTD | Comprehensive Business Support Services',
-  description: 'Your trusted partner in growth, efficiency, and success. We provide administrative support, financial management, strategic consultancy, and staffing solutions for businesses of all sizes.',
-  keywords: 'business support, administrative services, consultancy, staffing, HR, financial management, operations',
+  title: 'HMCFS LTD | Comprehensive Business Support & Advertising Services',
+  description: 'Your trusted partner in growth, efficiency, and success. We provide administrative support, financial management, strategic consultancy, advertising services, and staffing solutions for businesses of all sizes.',
+  keywords: 'business support, administrative services, consultancy, staffing, HR, financial management, operations, advertising',
   openGraph: {
-    title: 'MCOL LTD | Comprehensive Business Support Services',
+    title: 'HMCFS LTD | Comprehensive Business Support & Advertising Services',
     description: 'Your trusted partner in growth, efficiency, and success.',
     type: 'website',
   },

@@ -43,6 +43,18 @@ export default function Services() {
       ],
     },
     {
+      title: 'Advertising Services',
+      icon: '📺',
+      description: 'Creative campaigns and strategic advertising to amplify your brand.',
+      items: [
+        'Campaign strategy and creative development',
+        'Digital advertising and social media ads',
+        'Print and outdoor advertising',
+        'Media planning and buying',
+        'Performance tracking and optimization',
+      ],
+    },
+    {
       title: 'Marketing & Branding',
       icon: '📢',
       description: 'Grow your audience and strengthen your presence.',

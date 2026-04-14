@@ -65,13 +65,13 @@ export default function Contact() {
     },
     {
       title: 'Email',
-      content: 'info@mcol.online',
+      content: 'info@hmcfs.cc',
       icon: Mail,
-      link: 'mailto:info@mcol.online',
+      link: 'mailto:info@hmcfs.cc',
     },
     {
       title: 'Office',
-      content: '72 High Street\nEasterton\nDevizes\nWiltshire\nSN10 4PG',
+      content: '128 City Road\nLondon\nUnited Kingdom\nEC1V 2NX',
       icon: MapPin,
     },
     {
@@ -122,7 +122,7 @@ export default function Contact() {
               We're Here to Help
             </p>
             <p className="text-lg text-gray-700 leading-relaxed max-w-3xl">
-              Have a question or ready to transform your business? Get in touch with our team and discover how MCOL LTD can help you succeed.
+              Have a question or ready to transform your business? Get in touch with our team and discover how HMCFS LTD can help you succeed.
             </p>
           </div>
         </section>
@@ -254,10 +254,9 @@ export default function Contact() {
                 >
                   <option value="">Select a service</option>
                   <option value="Administrative Support">Administrative Support</option>
-                  <option value="Accounting & Financial Management">Accounting & Financial Management</option>
-                  <option value="Credit Control & Debt Recovery">Credit Control & Debt Recovery</option>
                   <option value="Business Consultancy">Business Consultancy</option>
                   <option value="Human Resources & Staffing">Human Resources & Staffing</option>
+                  <option value="Advertising Services">Advertising Services</option>
                   <option value="Marketing & Branding">Marketing & Branding</option>
                   <option value="IT & Digital Solutions">IT & Digital Solutions</option>
                   <option value="Networking & Business Development">Networking & Business Development</option>

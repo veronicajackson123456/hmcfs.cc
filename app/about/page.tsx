@@ -48,10 +48,10 @@ export default function About() {
               </h1>
             </div>
             <p className="text-lg text-gray-700 leading-relaxed max-w-3xl">
-              MCOL LTD is a multidisciplinary business support firm committed to helping organisations thrive in every stage of growth. Our mission is simple — to provide professional, reliable, and scalable support that allows you to focus on strategic priorities while we handle the day-to-day complexities of running a business.
+              HMCFS LTD is a multidisciplinary business support firm committed to helping organisations thrive in every stage of growth. Our mission is simple — to provide professional, reliable, and scalable support that allows you to focus on strategic priorities while we handle the day-to-day complexities of running a business.
             </p>
             <p className="text-lg text-gray-700 leading-relaxed max-w-3xl mt-6">
-              Founded on principles of trust, integrity, and excellence, we bring together a team of specialists with decades of experience across multiple industries — including finance, operations, human resources, and digital transformation.
+              Founded on principles of trust, integrity, and excellence, we bring together a team of specialists with decades of experience across multiple industries — including finance, operations, human resources, advertising, and digital transformation.
             </p>
           </div>
         </section>
@@ -116,7 +116,7 @@ export default function About() {
               </h2>
             </div>
             <p className="text-xl text-blue-100 mb-12 max-w-2xl mx-auto">
-              Let's discuss how MCOL LTD can support your business goals and help you reach new heights
+              Let's discuss how HMCFS LTD can support your business goals and help you reach new heights
             </p>
             <Link
               href="/contact"

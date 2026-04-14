@@ -27,16 +27,16 @@ export default function Header() {
           {/* Logo & Company Info */}
           <Link href="/" className="flex items-center gap-3 flex-shrink-0">
             <Image 
-              src="/mcol-logo.jpg" 
-              alt="MCOL LTD Logo" 
+              src="/hmcfs-logo.jpg" 
+              alt="HMCFS LTD Logo" 
               width={48} 
               height={48}
               className="rounded w-12 h-12 object-cover"
             />
             <div className="flex flex-col">
-              <div className="text-lg font-bold text-gray-900">MCOL LTD</div>
+              <div className="text-lg font-bold text-gray-900">HMCFS LTD</div>
               <div className="text-xs text-gray-600">Business Solutions</div>
-              <div className="text-xs text-gray-500">Company No. 17069019</div>
+              <div className="text-xs text-gray-500">Company No. 17152866</div>
             </div>
           </Link>
 

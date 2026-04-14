@@ -24,9 +24,9 @@ export default function Home() {
       icon: '👥',
     },
     {
-      title: 'Marketing & Branding',
-      description: 'Grow your audience and strengthen your market presence.',
-      icon: '📢',
+      title: 'Advertising Services',
+      description: 'Creative campaigns and strategic advertising to grow your brand.',
+      icon: '📺',
     },
   ]
 
@@ -73,13 +73,13 @@ export default function Home() {
                   Your Trusted Business Partner
                 </div>
                 <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-6 leading-tight">
-                  Comprehensive Business Support Services for <span className="text-blue-600">Every Sector</span>
+                  Comprehensive Business Support & Advertising Services for <span className="text-blue-600">Every Sector</span>
                 </h1>
                 <p className="text-lg text-gray-700 mb-8 leading-relaxed">
                   Your trusted partner in growth, efficiency, and success.
                 </p>
                 <p className="text-base text-gray-600 mb-8 leading-relaxed">
-                  At MCOL LTD, we help businesses of all sizes operate smarter, grow faster, and achieve long-term success. Whether you need administrative support, financial management, strategic consultancy, or staffing solutions, our expert team delivers reliable, flexible, and cost-effective services tailored to your goals.
+                  At HMCFS LTD, we help businesses of all sizes operate smarter, grow faster, and achieve long-term success. Whether you need administrative support, financial management, strategic consultancy, advertising services, or staffing solutions, our expert team delivers reliable, flexible, and cost-effective services tailored to your goals.
                 </p>
                 <p className="text-base text-gray-600 mb-8 leading-relaxed">
                   From startups to established enterprises, we provide the operational foundation you need to focus on what truly matters — running and expanding your business.
@@ -131,7 +131,7 @@ export default function Home() {
         <section className="py-16 md:py-20 bg-white">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4 text-center">
-              Why Businesses Choose <span className="text-blue-600">MCOL LTD</span>
+              Why Businesses Choose <span className="text-blue-600">HMCFS LTD</span>
             </h2>
             <p className="text-lg text-gray-600 text-center mb-12 max-w-3xl mx-auto">
               We combine expertise, innovation, and dedication to deliver exceptional results for your business
@@ -163,12 +163,12 @@ export default function Home() {
               A glimpse into how we can support your business.
             </p>
             <div className="relative rounded-2xl overflow-hidden shadow-md mb-12 h-64 md:h-80">
-              <Image
-                src="/services-team.jpg"
-                alt="MCOL LTD team working with clients"
-                fill
-                className="object-cover"
-              />
+                  <Image
+                    src="/services-team.jpg"
+                    alt="Professional team delivering comprehensive business support"
+                    fill
+                    className="object-cover"
+                  />
               <div className="absolute inset-0 bg-gradient-to-r from-blue-900/60 to-transparent flex items-center px-10">
                 <div>
                   <p className="text-white text-2xl md:text-3xl font-bold max-w-sm leading-snug">
@@ -230,8 +230,8 @@ export default function Home() {
                 </a>
               </p>
               <p className="text-lg">
-                <a href="mailto:info@mcol.online" className="hover:text-white transition-colors">
-                  info@mcol.online
+                <a href="mailto:info@hmcfs.cc" className="hover:text-white transition-colors">
+                  info@hmcfs.cc
                 </a>
               </p>
             </div>

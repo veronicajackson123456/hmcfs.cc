@@ -2,8 +2,8 @@ import type { Metadata } from 'next'
 import LegalLayout from '@/components/legal-layout'
 
 export const metadata: Metadata = {
-  title: 'Cookie Policy | MCOL LTD',
-  description: 'Learn how MCOL LTD uses cookies and similar tracking technologies on our website.',
+  title: 'Cookie Policy | HMCFS LTD',
+  description: 'Learn how HMCFS LTD uses cookies and similar tracking technologies on our website.',
 }
 
 export default function CookiePolicyPage() {
@@ -11,7 +11,7 @@ export default function CookiePolicyPage() {
     <LegalLayout
       title="Cookie Policy"
       lastUpdated="4 November 2025"
-      description="This Cookie Policy explains how MCOL LTD uses cookies and similar technologies when you visit our website. It explains what these technologies are, why we use them, and your rights to control our use of them. By continuing to use our website, you consent to our use of cookies in accordance with this policy."
+      description="This Cookie Policy explains how HMCFS LTD uses cookies and similar technologies when you visit our website. It explains what these technologies are, why we use them, and your rights to control our use of them. By continuing to use our website, you consent to our use of cookies in accordance with this policy."
       sections={[
         {
           title: 'What Are Cookies?',

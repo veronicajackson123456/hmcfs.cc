@@ -115,7 +115,7 @@ export default function LegalLayout({ title, lastUpdated, description, sections 
                 <div className="grid sm:grid-cols-2 gap-4 text-sm">
                   <div>
                     <span className="font-semibold text-foreground block mb-0.5">Email</span>
-                    <a href="mailto:info@mcol.online" className="text-primary hover:underline">info@mcol.online</a>
+                    <a href="mailto:info@hmcfs.cc" className="text-primary hover:underline">info@hmcfs.cc</a>
                   </div>
                   <div>
                     <span className="font-semibold text-foreground block mb-0.5">Phone</span>
@@ -123,11 +123,11 @@ export default function LegalLayout({ title, lastUpdated, description, sections 
                   </div>
                   <div className="sm:col-span-2">
                     <span className="font-semibold text-foreground block mb-0.5">Registered Address</span>
-                    <span className="text-muted-foreground">72 High Street, Easterton, Devizes, Wiltshire, SN10 4PG</span>
+                    <span className="text-muted-foreground">128 City Road, London, United Kingdom, EC1V 2NX</span>
                   </div>
                   <div>
                     <span className="font-semibold text-foreground block mb-0.5">Company No.</span>
-                    <span className="text-muted-foreground">17069019</span>
+                    <span className="text-muted-foreground">17152866</span>
                   </div>
                 </div>
               </div>

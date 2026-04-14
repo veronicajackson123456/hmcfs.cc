@@ -2,8 +2,8 @@ import type { Metadata } from 'next'
 import LegalLayout from '@/components/legal-layout'
 
 export const metadata: Metadata = {
-  title: 'Terms & Conditions | MCOL LTD',
-  description: 'Read the Terms and Conditions governing your use of MCOL LTD services and website.',
+  title: 'Terms & Conditions | HMCFS LTD',
+  description: 'Read the Terms and Conditions governing your use of HMCFS LTD services and website.',
 }
 
 export default function TermsPage() {
@@ -18,10 +18,10 @@ export default function TermsPage() {
           content: (
             <>
               <p>
-                In these Terms, <strong className="text-foreground">"Company"</strong>, <strong className="text-foreground">"We"</strong>, <strong className="text-foreground">"Our"</strong>, or <strong className="text-foreground">"Us"</strong> refers to <strong className="text-foreground">MCOL LTD</strong>, a company registered in England and Wales (Company No. 17069019), with a registered address at 72 High Street, Easterton, Devizes, Wiltshire, SN10 4PG.
+                In these Terms, <strong className="text-foreground">"Company"</strong>, <strong className="text-foreground">"We"</strong>, <strong className="text-foreground">"Our"</strong>, or <strong className="text-foreground">"Us"</strong> refers to <strong className="text-foreground">HMCFS LTD</strong>, a company registered in England and Wales (Company No. 17152866), with a registered address at 128 City Road, London, United Kingdom, EC1V 2NX.
               </p>
               <p>
-                <strong className="text-foreground">"Client"</strong>, <strong className="text-foreground">"You"</strong>, or <strong className="text-foreground">"Your"</strong> refers to the individual or business accessing or using our website or services. <strong className="text-foreground">"Services"</strong> means all services provided by MCOL LTD, including but not limited to business support, IT, and digital services.
+                <strong className="text-foreground">"Client"</strong>, <strong className="text-foreground">"You"</strong>, or <strong className="text-foreground">"Your"</strong> refers to the individual or business accessing or using our website or services. <strong className="text-foreground">"Services"</strong> means all services provided by HMCFS LTD, including but not limited to business support, advertising, IT, and digital services.
               </p>
             </>
           ),
@@ -48,7 +48,7 @@ export default function TermsPage() {
           content: (
             <>
               <p>
-                MCOL LTD provides business support, IT, and digital services. All services are subject to individual agreements and may require written confirmation or payment prior to commencement. We reserve the right to modify, suspend, or discontinue any service at any time without notice.
+                HMCFS LTD provides business support, advertising, IT, and digital services. All services are subject to individual agreements and may require written confirmation or payment prior to commencement. We reserve the right to modify, suspend, or discontinue any service at any time without notice.
               </p>
               <p>
                 Service descriptions on our website are provided for general informational purposes. Specific deliverables, timelines, and pricing are agreed upon in separate service agreements or statements of work.
@@ -60,7 +60,7 @@ export default function TermsPage() {
           title: 'Intellectual Property',
           content: (
             <p>
-              All content on this website — including text, images, graphics, logos, and software — is the property of MCOL LTD or its licensors and is protected by applicable intellectual property laws. You may not reproduce, distribute, modify, transmit, or exploit any materials without our prior written consent. Any unauthorised use may result in legal action.
+              All content on this website — including text, images, graphics, logos, and software — is the property of HMCFS LTD or its licensors and is protected by applicable intellectual property laws. You may not reproduce, distribute, modify, transmit, or exploit any materials without our prior written consent. Any unauthorised use may result in legal action.
             </p>
           ),
         },
@@ -69,7 +69,7 @@ export default function TermsPage() {
           content: (
             <>
               <p>
-                To the fullest extent permitted by law, MCOL LTD shall not be liable for any indirect, incidental, special, consequential, or punitive damages arising from your use of, or inability to use, our website or services. This includes, without limitation, damages for loss of profits, data, goodwill, or other intangible losses.
+                To the fullest extent permitted by law, HMCFS LTD shall not be liable for any indirect, incidental, special, consequential, or punitive damages arising from your use of, or inability to use, our website or services. This includes, without limitation, damages for loss of profits, data, goodwill, or other intangible losses.
               </p>
               <p>
                 Our total cumulative liability in connection with our services or these Terms shall not exceed the total fees paid by you for the specific service giving rise to the claim in the twelve (12) months preceding the date of the claim.
@@ -97,7 +97,7 @@ export default function TermsPage() {
           title: 'Confidentiality',
           content: (
             <p>
-              Both parties agree to keep confidential all proprietary, technical, or business information shared during the course of a business relationship. MCOL LTD will not disclose your confidential information to third parties without your prior written consent, except where required by law or regulation. This obligation survives the termination of any service agreement.
+              Both parties agree to keep confidential all proprietary, technical, or business information shared during the course of a business relationship. HMCFS LTD will not disclose your confidential information to third parties without your prior written consent, except where required by law or regulation. This obligation survives the termination of any service agreement.
             </p>
           ),
         },
@@ -126,7 +126,7 @@ export default function TermsPage() {
           title: 'Changes to Terms',
           content: (
             <p>
-              MCOL LTD reserves the right to modify or replace these Terms at any time. We will notify users of material changes by updating the "Last updated" date at the top of this page. Your continued use of the website following the posting of changes constitutes your acceptance of those changes. We encourage you to review these Terms periodically.
+              HMCFS LTD reserves the right to modify or replace these Terms at any time. We will notify users of material changes by updating the "Last updated" date at the top of this page. Your continued use of the website following the posting of changes constitutes your acceptance of those changes. We encourage you to review these Terms periodically.
             </p>
           ),
         },

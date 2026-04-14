@@ -2,8 +2,8 @@ import type { Metadata } from 'next'
 import LegalLayout from '@/components/legal-layout'
 
 export const metadata: Metadata = {
-  title: 'Acceptable Use Policy | MCOL LTD',
-  description: 'Read the Acceptable Use Policy governing use of MCOL LTD services and platforms.',
+  title: 'Acceptable Use Policy | HMCFS LTD',
+  description: 'Read the Acceptable Use Policy governing use of HMCFS LTD services and platforms.',
 }
 
 export default function AcceptableUsePage() {
@@ -17,7 +17,7 @@ export default function AcceptableUsePage() {
           title: 'Overview',
           content: (
             <p>
-              MCOL LTD provides business support, IT, and digital services. This policy applies to all users of our website and services, including clients, visitors, and any third parties who access our platforms. We expect all users to act responsibly and with respect for others. Misuse of our services may result in immediate suspension or termination of access.
+              HMCFS LTD provides business support, IT, and digital services. This policy applies to all users of our website and services, including clients, visitors, and any third parties who access our platforms. We expect all users to act responsibly and with respect for others. Misuse of our services may result in immediate suspension or termination of access.
             </p>
           ),
         },
@@ -29,7 +29,7 @@ export default function AcceptableUsePage() {
               <ul className="list-disc pl-5 space-y-1 mt-3">
                 <li>Accessing information about our services and business support offerings</li>
                 <li>Submitting legitimate business enquiries through authorised contact channels</li>
-                <li>Using services as agreed in your individual service agreement with MCOL LTD</li>
+                <li>Using services as agreed in your individual service agreement with HMCFS LTD</li>
                 <li>Sharing our publicly available content, provided appropriate attribution is given</li>
               </ul>
             </>
@@ -48,7 +48,7 @@ export default function AcceptableUsePage() {
                 <li>Introduce viruses, malware, ransomware, or other harmful or disruptive code</li>
                 <li>Use automated tools to scrape, crawl, or harvest data from our website without prior written consent</li>
                 <li>Impersonate any person or entity, or falsely claim an affiliation with any person or entity</li>
-                <li>Violate the intellectual property rights of MCOL LTD or any third party</li>
+                <li>Violate the intellectual property rights of HMCFS LTD or any third party</li>
                 <li>Interfere with or disrupt the integrity or performance of our services or related infrastructure</li>
                 <li>Use our services for competitive intelligence, benchmarking, or building a competing product</li>
                 <li>Process or store any data in violation of applicable data protection laws</li>
@@ -77,7 +77,7 @@ export default function AcceptableUsePage() {
           content: (
             <>
               <p>
-                If you are provided with login credentials or access to any MCOL LTD platform or service, you are responsible for:
+                If you are provided with login credentials or access to any HMCFS LTD platform or service, you are responsible for:
               </p>
               <ul className="list-disc pl-5 space-y-1 mt-3">
                 <li>Keeping your access credentials secure and confidential</li>
@@ -92,7 +92,7 @@ export default function AcceptableUsePage() {
           title: 'Monitoring and Enforcement',
           content: (
             <p>
-              MCOL LTD reserves the right to monitor use of our website and services for compliance with this policy. We may investigate any suspected breach and take appropriate action, including issuing warnings, suspending or terminating access to our services, and reporting matters to relevant law enforcement authorities. We are not obligated to actively monitor all content or activities but may do so at our discretion.
+              HMCFS LTD reserves the right to monitor use of our website and services for compliance with this policy. We may investigate any suspected breach and take appropriate action, including issuing warnings, suspending or terminating access to our services, and reporting matters to relevant law enforcement authorities. We are not obligated to actively monitor all content or activities but may do so at our discretion.
             </p>
           ),
         },
