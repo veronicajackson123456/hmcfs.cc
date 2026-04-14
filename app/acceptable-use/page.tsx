@@ -29,7 +29,7 @@ export default function AcceptableUsePage() {
               <ul className="list-disc pl-5 space-y-1 mt-3">
                 <li>Accessing information about our services and business support offerings</li>
                 <li>Submitting legitimate business enquiries through authorised contact channels</li>
-                <li>Using services as agreed in your individual service agreement with MCOL LTD</li>
+                <li>Using services as agreed in your individual service agreement with HMCFS LTD</li>
                 <li>Sharing our publicly available content, provided appropriate attribution is given</li>
               </ul>
             </>

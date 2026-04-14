@@ -163,12 +163,12 @@ export default function Home() {
               A glimpse into how we can support your business.
             </p>
             <div className="relative rounded-2xl overflow-hidden shadow-md mb-12 h-64 md:h-80">
-              <Image
-                src="/services-team.jpg"
-                alt="MCOL LTD team working with clients"
-                fill
-                className="object-cover"
-              />
+                  <Image
+                    src="/services-team.jpg"
+                    alt="Professional team delivering comprehensive business support"
+                    fill
+                    className="object-cover"
+                  />
               <div className="absolute inset-0 bg-gradient-to-r from-blue-900/60 to-transparent flex items-center px-10">
                 <div>
                   <p className="text-white text-2xl md:text-3xl font-bold max-w-sm leading-snug">
@@ -230,8 +230,8 @@ export default function Home() {
                 </a>
               </p>
               <p className="text-lg">
-                <a href="mailto:info@mcol.online" className="hover:text-white transition-colors">
-                  info@mcol.online
+                <a href="mailto:info@hmcfs.cc" className="hover:text-white transition-colors">
+                  info@hmcfs.cc
                 </a>
               </p>
             </div>

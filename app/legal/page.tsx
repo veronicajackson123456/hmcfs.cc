@@ -5,8 +5,8 @@ import Footer from '@/components/footer'
 import { FileText, Shield, Cookie, AlertCircle, Scale } from 'lucide-react'
 
 export const metadata: Metadata = {
-  title: 'Legal | MCOL LTD',
-  description: 'Access all of MCOL LTD\'s legal documents including Terms & Conditions, Privacy Policy, Cookie Policy, Acceptable Use Policy, and Disclaimer.',
+  title: 'Legal | HMCFS LTD',
+  description: 'Access all of HMCFS LTD\'s legal documents including Terms & Conditions, Privacy Policy, Cookie Policy, Acceptable Use Policy, and Disclaimer.',
 }
 
 const legalDocs = [
@@ -131,10 +131,10 @@ export default function LegalHubPage() {
                   Get in Touch
                 </Link>
                 <a
-                  href="mailto:info@mcol.online"
+                  href="mailto:info@hmcfs.cc"
                   className="inline-flex items-center justify-center border border-border text-foreground font-medium px-6 py-3 rounded-lg hover:bg-background transition-colors"
                 >
-                  info@mcol.online
+                  info@hmcfs.cc
                 </a>
               </div>
             </div>

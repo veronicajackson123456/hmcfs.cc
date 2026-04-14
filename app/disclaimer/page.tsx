@@ -26,7 +26,7 @@ export default function DisclaimerPage() {
           content: (
             <>
               <p>
-                To the fullest extent permitted by law, MCOL LTD expressly excludes:
+                To the fullest extent permitted by law, HMCFS LTD expressly excludes:
               </p>
               <ul className="list-disc pl-5 space-y-1 mt-3">
                 <li>All conditions, warranties, representations, or other terms that may apply to our website or any content on it, whether express or implied</li>

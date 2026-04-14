@@ -116,7 +116,7 @@ export default function About() {
               </h2>
             </div>
             <p className="text-xl text-blue-100 mb-12 max-w-2xl mx-auto">
-              Let's discuss how MCOL LTD can support your business goals and help you reach new heights
+              Let's discuss how HMCFS LTD can support your business goals and help you reach new heights
             </p>
             <Link
               href="/contact"

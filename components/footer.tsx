@@ -75,8 +75,8 @@ export default function Footer() {
                 <span>
                   <span className="font-semibold text-white">Email:</span>
                   <br />
-                  <a href="mailto:info@mcol.online" className="hover:text-white transition-colors">
-                    info@mcol.online
+                  <a href="mailto:info@hmcfs.cc" className="hover:text-white transition-colors">
+                    info@hmcfs.cc
                   </a>
                 </span>
               </p>
