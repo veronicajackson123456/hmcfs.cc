@@ -2,8 +2,8 @@ import type { Metadata } from 'next'
 import LegalLayout from '@/components/legal-layout'
 
 export const metadata: Metadata = {
-  title: 'Disclaimer | MCOL LTD',
-  description: 'Read the legal disclaimer governing information provided on the MCOL LTD website.',
+  title: 'Disclaimer | HMCFS LTD',
+  description: 'Read the legal disclaimer governing information provided on the HMCFS LTD website.',
 }
 
 export default function DisclaimerPage() {
@@ -11,7 +11,7 @@ export default function DisclaimerPage() {
     <LegalLayout
       title="Disclaimer"
       lastUpdated="4 November 2025"
-      description="The information contained on this website is provided by MCOL LTD for general informational purposes only. While we endeavour to keep information up to date and accurate, we make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability, or availability of the website or the information, products, services, or related graphics contained on the website."
+      description="The information contained on this website is provided by HMCFS LTD for general informational purposes only. While we endeavour to keep information up to date and accurate, we make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability, or availability of the website or the information, products, services, or related graphics contained on the website."
       sections={[
         {
           title: 'General Information Only',
@@ -50,7 +50,7 @@ export default function DisclaimerPage() {
           title: 'External Links',
           content: (
             <p>
-              Our website may contain links to external websites that are not operated or controlled by MCOL LTD. We have no control over the content, nature, or availability of those sites. The inclusion of any links does not necessarily imply a recommendation or endorsement of the views expressed within them. We accept no responsibility for the content of any linked website, or any loss or damage that may arise from your use of them.
+              Our website may contain links to external websites that are not operated or controlled by HMCFS LTD. We have no control over the content, nature, or availability of those sites. The inclusion of any links does not necessarily imply a recommendation or endorsement of the views expressed within them. We accept no responsibility for the content of any linked website, or any loss or damage that may arise from your use of them.
             </p>
           ),
         },
@@ -58,7 +58,7 @@ export default function DisclaimerPage() {
           title: 'Professional Services Disclaimer',
           content: (
             <p>
-              The services described on this website are provided in accordance with individual service agreements entered into between MCOL LTD and each client. Descriptions of services on this website are for illustrative purposes and do not represent a binding commitment. Actual services, deliverables, timelines, and fees are governed exclusively by the terms of any formal engagement between MCOL LTD and the client.
+              The services described on this website are provided in accordance with individual service agreements entered into between HMCFS LTD and each client. Descriptions of services on this website are for illustrative purposes and do not represent a binding commitment. Actual services, deliverables, timelines, and fees are governed exclusively by the terms of any formal engagement between HMCFS LTD and the client.
             </p>
           ),
         },
@@ -85,7 +85,7 @@ export default function DisclaimerPage() {
           title: 'Intellectual Property',
           content: (
             <p>
-              All intellectual property rights in any content displayed on this website — including but not limited to text, graphics, logos, icons, images, audio clips, and software — are owned by or licensed to MCOL LTD. Such works are protected by copyright, trade mark, and other applicable laws. No content may be copied, reproduced, distributed, or otherwise used without the prior written permission of MCOL LTD.
+              All intellectual property rights in any content displayed on this website — including but not limited to text, graphics, logos, icons, images, audio clips, and software — are owned by or licensed to HMCFS LTD. Such works are protected by copyright, trade mark, and other applicable laws. No content may be copied, reproduced, distributed, or otherwise used without the prior written permission of HMCFS LTD.
             </p>
           ),
         },
