@@ -12,16 +12,16 @@ export default function Footer() {
           <div>
             <div className="flex items-center gap-3 mb-4">
               <Image 
-                src="/mcol-logo.jpg" 
-                alt="MCOL LTD Logo" 
+                src="/hmcfs-logo.jpg" 
+                alt="HMCFS LTD Logo" 
                 width={40} 
                 height={40}
                 className="rounded"
               />
-              <h3 className="text-xl font-bold">MCOL LTD</h3>
+              <h3 className="text-xl font-bold">HMCFS LTD</h3>
             </div>
             <p className="text-gray-400 text-sm leading-relaxed">
-              Your trusted partner in growth, efficiency, and success. Delivering comprehensive business support services worldwide.
+              Your trusted partner in growth, efficiency, and success. Delivering comprehensive business support and advertising services worldwide.
             </p>
           </div>
 
@@ -127,15 +127,15 @@ export default function Footer() {
             <div>
               <p className="flex items-start gap-2">
                 <span className="text-lg mt-0.5">📍</span>
-                <span>72 High Street, Easterton, Devizes, Wiltshire, SN10 4PG</span>
+                <span>128 City Road, London, United Kingdom, EC1V 2NX</span>
               </p>
               <p className="mt-2 flex items-center gap-2">
-                <span className="text-lg">🏷️</span> Company No. 17069019
+                <span className="text-lg">🏷️</span> Company No. 17152866
               </p>
             </div>
             <div className="md:text-right">
-              <p>&copy; 2025 MCOL LTD. All rights reserved.</p>
-              <p className="mt-2 text-xs">✨ Comprehensive Business Support Services</p>
+              <p>&copy; 2025 HMCFS LTD. All rights reserved.</p>
+              <p className="mt-2 text-xs">✨ Comprehensive Business Support & Advertising Services</p>
             </div>
           </div>
         </div>
