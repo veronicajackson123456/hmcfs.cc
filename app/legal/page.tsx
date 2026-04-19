@@ -2,11 +2,11 @@ import type { Metadata } from 'next'
 import Link from 'next/link'
 import Header from '@/components/header'
 import Footer from '@/components/footer'
-import { FileText, Shield, Cookie, AlertCircle, Scale } from 'lucide-react'
+import { FileText, Shield, Cookie, AlertCircle, Scale, RotateCcw } from 'lucide-react'
 
 export const metadata: Metadata = {
   title: 'Legal | HMCFS LTD',
-  description: 'Access all of HMCFS LTD\'s legal documents including Terms & Conditions, Privacy Policy, Cookie Policy, Acceptable Use Policy, and Disclaimer.',
+  description: 'Access all of HMCFS LTD\'s legal documents including Terms & Conditions, Privacy Policy, Cookie Policy, Refund Policy, Acceptable Use Policy, and Disclaimer.',
 }
 
 const legalDocs = [
@@ -33,6 +33,14 @@ const legalDocs = [
     href: '/cookies',
     icon: Cookie,
     updated: '4 November 2025',
+  },
+  {
+    title: 'Refund Policy',
+    description:
+      'Our comprehensive refund procedures, eligibility requirements, processing times, and customer satisfaction guarantees for all services.',
+    href: '/refund-policy',
+    icon: RotateCcw,
+    updated: '19 April 2026',
   },
   {
     title: 'Acceptable Use Policy',
