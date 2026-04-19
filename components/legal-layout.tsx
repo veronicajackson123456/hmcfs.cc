@@ -18,6 +18,7 @@ const legalPages = [
   { label: 'Terms & Conditions', href: '/terms' },
   { label: 'Privacy Policy', href: '/privacy' },
   { label: 'Cookie Policy', href: '/cookies' },
+  { label: 'Refund Policy', href: '/refund-policy' },
   { label: 'Acceptable Use Policy', href: '/acceptable-use' },
   { label: 'Disclaimer', href: '/disclaimer' },
 ]
